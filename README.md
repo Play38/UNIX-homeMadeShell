@@ -8,7 +8,7 @@ Supports the following commands:
 
 3. Given the command "tasks", you can see which apps are running right now on background.
 
-4.Given the command "return [number]" it will make the homemade shell to wait till the given app has ended.
+4. Given the command "return [number]" it will make the homemade shell to wait till the given app has ended.
 For example: "return 1921"
 
 5. Redirect an output of a given app to stdout.
